@@ -1,0 +1,26 @@
+{
+  "name": "ok-coders-bakcend-2017",
+  "version": "1.0.0",
+  "description": "contains the examples done in class, homework and examples done from experimenting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielWebDev/ok-coders-backend-2017.git"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "backend",
+    "daniel",
+    "kline"
+  ],
+  "author": "Daniel Kline",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielWebDev/ok-coders-backend-2017/issues"
+  },
+  "homepage": "https://github.com/DanielWebDev/ok-coders-backend-2017#readme"
+}
